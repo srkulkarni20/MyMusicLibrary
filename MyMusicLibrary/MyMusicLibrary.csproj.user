@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <Source>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</Source>
+    <SmallTileSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Shwet\source\repos\MyMusicLibrary\MyMusicLibrary\Assets\musiclogo.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>
