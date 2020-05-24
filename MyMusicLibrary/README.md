@@ -15,3 +15,5 @@ Features in MusicLibrary UWP APP
 3. Add/Delete Songs in Playlist : User is able to add or delete the song in the created playlist.
 4. Search : User is able to search the song by typing the name/ string in the search box, all the songs containing the substring will list down.
 5. MediaElement : All the songs are playable and can be controlled with the play and pause button and the screen can be enlarged.
+
+Youtube link for the demo: https://youtu.be/1uRaTsS0N4c
